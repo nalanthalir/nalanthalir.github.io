@@ -428,8 +428,8 @@
     margin: 0 auto;
     max-width: 600px;
     text-align: center;
-    background: #FFFFFF;
-    border: 30px solid var(--primary);
+    background: #A8DE60;
+    border: 20px solid #ffffff;
 }
 
 .testimonial-item img {
